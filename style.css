@@ -1,0 +1,60 @@
+body{
+	
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+.dashboard{
+	padding: 30px 40px 2px 5px;
+}
+
+.first{
+	outline-color:red;
+	outline-style:  solid;
+	}
+.second{
+	float:right;
+	padding-left:100px;
+	padding-top:10px;
+}
+.navbar-nav  li{
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.fa-map-marker-alt{
+	color:rgba(0, 181, 204, 1);
+	padding:10px;
+}
+
+.fa-phone{
+	color:rgba(0, 181, 204, 1);
+	padding:10px;
+}
+
+.fa-user{
+	color:rgba(0, 181, 204, 1);
+	padding:10px;
+}
+
+.fa-envelope{
+	color:rgba(0, 181, 204, 1);
+	padding:10px;
+}
+
+.fa-globe{
+	color:rgba(0, 181, 204, 1);
+	padding:10px;
+}
+
+.top{
+	padding-left:30px;
+}
+
+.fa-calendar{
+	color:rgba(0, 181, 204, 1);
+	padding:10px;
+}
+
+
+
